@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2026-01-20
+date: 2026-08-26
 ---
 
-Welcome to Data 89 Spring 2026.
+Welcome to Data 89 Fall 2026.
