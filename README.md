@@ -1,8 +1,6 @@
-# Data 89 Spring 2026 Website
+# Data 89 Fall 2026 Website
 
-[![Deploy Jekyll site to Pages](https://github.com/data-89-berkeley/sp26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-89-berkeley/sp26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-89-berkeley/sp26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-89-berkeley/sp26/actions/workflows/rspec.yml)
-
-A template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
+[![Deploy Jekyll site to Pages](https://github.com/data-89-berkeley/fa26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/data-89-berkeley/fa26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/data-89-berkeley/fa26/actions/workflows/rspec.yml/badge.svg)](https://github.com/data-89-berkeley/fa26/actions/workflows/rspec.yml)
 
 ## Installation
 
