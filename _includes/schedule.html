@@ -99,7 +99,7 @@
                 <div class="syllabus-item" style="margin-bottom: 8px;">
                 {%- if extra.label and extra.label != "none" -%}
                     <strong class="label label-{{ extra.label }}">
-                    {{ extra.label | capitalize }}
+                        {{ extra.label | capitalize }}{% if extra.number %} {{ extra.number }}{% endif %}
                     </strong>
                 {%- endif -%}
                 <span>{{ extra.title }}</span>
