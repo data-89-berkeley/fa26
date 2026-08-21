@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 {: .warning }
-⚠️ This content is subject to change while this banner is present
+⚠️ The content on this page is subject to change while this banner is present.
 
 
 # Syllabus

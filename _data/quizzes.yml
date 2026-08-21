@@ -1,4 +1,4 @@
-### QUIZ ORDERING ###
+### QUIZ AND QUIZ RETAKES ###
 # each entry requires either a 'slug' or a 'title' field
 
 # use the slug if you utilize the _quizzes collection. this will take info
@@ -8,25 +8,38 @@
 # one-off overrides like holidays or for placeholders; use the title field sparingly
 
 # nonumber supresses the label and numbering for the quiz entry
-# skip: true will omit the quiz from the schedule entirely
 
 # link overrides the default link to the quiz page from the collection if 
 # you provided a slug or provides an external link
 quizzes:
-  - skip: true
-  - title: "Quiz 1 Scope" # 1
-    link: https://edstem.org/us/courses/92899/discussion/7544572
-  - title: "Quiz 2 Scope" # 2
-    link: https://edstem.org/us/courses/92899/discussion/7589948
-  - skip: true
-  - title: "Quiz 3 Scope" # 3
-    link: https://edstem.org/us/courses/92899/discussion/7661158
-  - skip: true
-  - skip: true
-  - title: "" # 4
-  - title: "" # 5
-  - skip: true # spring break
-  - title: "" # 6
-  - skip: true 
-  - skip: true
-  - title: "" # 7
+  - title: Prereq Quiz (9/1 - 9/3)
+    date: 2026-09-01
+    link: 
+  - title: Quiz 1 (9/8 - 9/10)
+    date: 2026-09-08
+  - title: Quiz 1 Retake (9/14 - 9/15)
+    date: 2026-09-14
+  - title: Quiz 2 (9/21 - 9/23)
+    date: 2026-09-21
+  - title: Quiz 2 Retake (10/1 - 10/2)
+    date: 2026-10-01
+  - title: Quiz 3 (10/7 - 10/9)
+    date: 2026-10-07
+  - title: Quiz 3 Retake (10/12 - 10/13)
+    date: 2026-10-12
+  - title: Quiz 4 (10/21 - 10/23)
+    date: 2026-10-21
+  - title: Quiz 4 Retake (10/29 - 10/30)
+    date: 2026-10-29
+  - title: Quiz 5 (11/2 - 11/4)
+    date: 2026-11-02
+  - title: Quiz 5 Retake (11/9 - 11/10)
+    date: 2026-11-09
+  - title: Quiz 6 (11/16 - 11/18)
+    date: 2026-11-16
+  - title: Quiz 6 Retake (11/23 - 11/24)
+    date: 2026-11-23
+  - title: Quiz 7 (11/30 - 12/2)
+    date: 2026-11-30
+  - title: Quiz 7 Retake (12/7 - 12/8)
+    date: 2026-12-07
