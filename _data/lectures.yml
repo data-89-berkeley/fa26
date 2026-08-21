@@ -19,71 +19,68 @@
 # providing the readings field.
 
 lectures:
-  - slug: lecture01
+  - slug: sets-logic-algebra
   # - title: "Probability Essentials: Sets, Logic, and Algebra"
-  - slug: lecture02
+  - slug: conditioning-independence
   # - title: "Probability Essentials: Conditioning and Independence"
-  - slug: lecture03
+  - slug: combinatorics
+  # - title: "Probability Essentials: Combinatorics"
+  - slug: discrete-random-variables
   # - title: "Probability Models: Discrete Random Variables"
-  - slug: lecture04
+  - slug: continuous-random-variables
   # - title: "Probability Models: Continuous Random Variables"
-  - slug: lecture05
+  - slug: global-properties
   # - title: "Visualizing Functions and Models: Global Properties"
-  - slug: lecture06
+  - slug: local-properties
   # - title: "Visualizing Functions and Models: Local Properties"
-  - slug: lecture07
+  - slug: expectation-1
   # - title: "Distribution Attributes: Expectation as Central Tendency 1"
-  - slug: lecture08
+  - slug: expectation-2
   # - title: "Distribution Attributes: Expectation as Central Tendency 2"
-  - slug: lecture09
+  - slug: standard-deviation
   # - title: "Distribution Attributes: Standard Deviation as Dispersion"
-  - slug: lecture10
+  - slug: tails-asymptotics
   # - title: "Distribution Attributes: Tails and Asymptotics"
-  - slug: lecture11
+  - slug: sequences
   # - title: "Techniques: Sequences, Series, and Asymptotic Rates"
-  - slug: lecture12
-  # - title: "Techniques: Taylor Series and Function Approximation"
-  - slug: lecture13
-  # - title: "Techniques: Limiting Distributions"
-  - slug: lecture14
-  # - title: "Techniques: Integrals and Sums of Function Combinations"
-  - slug: lecture15
+  - slug: taylor-series-1
+  # - title: "Techniques: Taylor Series and Function Approximation 1"
+  - slug: taylor-series-2
+  # - title: "Techniques: Taylor Series and Function Approximation 2"
+  - slug: integration-by-parts
+  # - title: "Techniques: Integration by Parts"
+  - slug: integration-by-substitution-change-of-variables
   # - title: "Techniques: Integration by Substitution and Change of Variables"
-  - slug: lecture16
+  - slug: coordinate-systems
   # - title: "Coordinate Systems for Multiple Variables"
-  - slug: lecture17
+  - slug: visualizing-multivariate
   # - title: "Visualizing Functions: Multivariate Functions"
-  - slug: lecture18
+  - slug: joint-distributions
   # - title: "Probability Models: Joint Distributions"
-  - title: "Spring Break"
-    nonumber: true
-  - title: "Spring Break"
-    nonumber: true
-  - slug: lecture19
+  - slug: partial-derivatives
   # - title: "Techniques: Partial Derivatives and Gradients"
-  - slug: lecture20
+  - slug: gradients-optimization
   # - title: "Techniques: Gradients and Optimization"
-  - slug: lecture21
-  # - title: "Techniques: Integrals and Sums in Multiple Dimensions"
-  - slug: lecture22
+  - slug: integrals-1
+  # - title: "Techniques: Integrals and Sums in Multiple Dimensions 1"
+  - slug: integrals-2
+  # - title: "Techniques: Integrals and Sums in Multiple Dimensions 2"
+  - slug: constrained-optimization
+  # - title: "Techniques: Constrained Optimization"
+  - slug: splitting-sums
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
-  - slug: lecture23
+  - title: TBA
+  - title: <b>Holiday - No Lecture</b>
+    nonumber: true
+  - slug: change-of-coordinates
   # - title: "Techniques: Integration on Manifolds and Change of Coordinates"
-  - slug: lecture24
+  - slug: measuring-association
   # - title: "Application: Measuring Association"
-  - slug: lecture25
-  # - title: "Application: Estimation"
-  - slug: lecture26
-  # - title: "Application: Properties of Estimators"
-  - slug: lecture27
-  # - title: "Application: Concentration via the Law of Large Numbers"
-  - slug: lecture28
-  # - title: "Application: Concentration via the Central Limit Theorem"
-  - title: "RRR Week"
+  - title: <b>RRR Week</b>
     nonumber: true
-  - title: "RRR Week"
+  - title: <b>RRR Week</b>
     nonumber: true
-  - title: "Finals Week"
+  - title: <b>Finals Week</b>
     nonumber: true
-  - title: "Finals Week"
+  - title: <b>Finals Week</b>
     nonumber: true
