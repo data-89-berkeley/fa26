@@ -10,6 +10,10 @@ end_date: 2026-12-18
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
+  - date: 2026-08-27
+    title: Probability Essentials
+    label: homework
+    number: 1
   - date: 2026-09-28
     title: "Midterm 1"
     label: exam
@@ -44,7 +48,7 @@ hw_days: ['1']
 # You may not need all of these. 
 starting_lecture_number: '1'
 starting_discussion_number: '1'
-starting_homework_number: '1'
+starting_homework_number: '2'
 starting_lab_number: '1'
 starting_project_number: '1'
 # Is the first week of class Week 0 or Week 1? We currently don't support
