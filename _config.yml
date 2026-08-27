@@ -8,9 +8,9 @@ url: 'https://data89.org' # the hostname & protocol for your site, e.g. http://e
 
 course: Data 89
 course_email: 
-gradescope_course_id:  # you can find this in the Gradescope URL after /courses
-bcourses_course_id: # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: # Again, same as above.
+gradescope_course_id:  # you can find this in the Pensive URL after /courses
+bcourses_course_id: 1558705 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 104008 # Again, same as above.
 sememster: fa26 # set for the current seemester
 course_logo_path: assets/images/logo
 # This should be one of eecs, dsus, stat
@@ -31,7 +31,7 @@ aux_links:
     - 'https://data89.org/notes'
   # Ed:
   #   - 'https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion'
-  # Gradescope:
+  # Pensive:
   #   - 'https://www.gradescope.com/courses/{{ site.gradescope_course_id}}'
 
 nav_external_links:

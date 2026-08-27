@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Joshua Grossman
-title: "Probability Essentials: Combinatorics"
+title: "Probability Essentials: 'If' and 'And'"
 date: 2026-09-03
 files:
   slides: 

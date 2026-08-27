@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Joshua Grossman
-title: "Probability Essentials: Conditioning and Independence"
+title: "Probability Essentials: 'Or' and 'Not'"
 date: 2026-09-01
 files:
   slides: 

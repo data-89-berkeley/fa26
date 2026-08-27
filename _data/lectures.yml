@@ -21,9 +21,9 @@
 lectures:
   - slug: sets-logic-algebra
   # - title: "Probability Essentials: Sets, Logic, and Algebra"
-  - slug: conditioning-independence
+  - slug: or-not
   # - title: "Probability Essentials: Conditioning and Independence"
-  - slug: combinatorics
+  - slug: if-and
   # - title: "Probability Essentials: Combinatorics"
   - slug: discrete-random-variables
   # - title: "Probability Models: Discrete Random Variables"

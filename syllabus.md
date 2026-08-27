@@ -13,19 +13,22 @@ nav_order: 2
 # Syllabus
 ## Instructors: 
 
-<!-- **Professor**: Alexander Strang  ([alexstrang@berkeley.edu](mailto:alexstrang@berkeley.edu))   -->
+**Professor**: Josh Grossman  
 
 ### **Contact:** 
 
 **Email:** [data89@berkeley.edu](mailto:data89@berkeley.edu)  
 **Ed:** [https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion](https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion)
 
-All regular course communication will use Ed. You may post there privately. For urgent or personal issues (e.g. exceptions or accommodations) please use the course email. 
+All regular course communication will use Ed. You may post there privately. For urgent or personal issues (e.g., exceptions or accommodations) please use the course email. 
 
 ### **Office Hours:** 
 
-**Professor:** Tuesdays 2:00 \- 4:00 pm, by reservation a week in advance from the [course calendar](https://data89.org/fa26/calendar_dynamic/) for up to five students. In Evans 305\.  
-**TA:** Monday noon \- 5:00 pm, Friday 10:00 am \- noon in Warren.
+**Josh:** Tuesday/Thursday right after lecture, 3:30 \- 4:30 pm in Gateway B1040\. Walk there with me!
+
+**TAs:** TBD
+
+<!-- Monday noon \- 5:00 pm, Friday 10:00 am \- noon in Warren. -->
 
 ---
 
@@ -53,7 +56,7 @@ By the end of the course students will be able to:
 * Find conditional and unconditional maxima of functions of single and multiple variables (identify modes of distributions and M-estimators; use Lagrange multipliers)  
 * Reason with and change coordinates (Cartesian coordinates, vector spaces, polar coordinates, and symmetries)
 
-A topical calendar is available [here](https://docs.google.com/spreadsheets/d/1nKhWI4IqUpyeGRuJckTGcNa9vLlz1-UrrkpM3DhHnbE/edit?usp=sharing).
+<!-- A topical calendar is available [here](https://docs.google.com/spreadsheets/d/1nKhWI4IqUpyeGRuJckTGcNa9vLlz1-UrrkpM3DhHnbE/edit?usp=sharing). -->
 
 ### **Prerequisites:** 
 
@@ -75,7 +78,7 @@ Experience working with Jupyter notebooks and Python programming using the datas
 
 ### **Meeting Times:** 
 
-**Lecture:** Tuesday/Thursday 11:00 am \- 12:30 pm, Li Ka Shing 245
+**Lecture:** Tuesday/Thursday 2 \- 3:30 pm, Li Ka Shing 245
 
 **Discussion:** Wednesdays, 10:00 am \- 3:00 pm, by section.
 
@@ -124,7 +127,7 @@ If you are a DSP student with note-taking accomodations please contact us so we 
 
 ### **Late Work Policy:** 
 
-We will not accept late work without advance notice and only in clearly extenuating circumstances. Please make an effort to submit assignments on time, before the Gradescope deadline. Email us if you face valid extenuating circumstances and cannot submit on time. Do not expect an extension unless it is explicitly granted. Note that, by design, the grading policy allows HW and discussion drops without penalty. We will not grant late submission until you have missed at least 2 HW submissions. Since assignments are graded on completion, you are welcome to submit partially finished work to document your participation.
+We will not accept late work without advance notice and only in clearly extenuating circumstances. Please make an effort to submit assignments on time, before the posted deadline. Email us if you face valid extenuating circumstances and cannot submit on time. Do not expect an extension unless it is explicitly granted. Note that, by design, the grading policy allows HW and discussion drops without penalty. We will not grant late submission until you have missed at least 2 HW submissions. Since assignments are graded on completion, you are welcome to submit partially finished work to document your participation.
 
 ### **LLM and AI use:**
 
@@ -150,9 +153,9 @@ The following course components will be designed to 1\. \[exposit\] provide expo
 
 **2.a Discussion Problems:** Each discussion section will be used to solve practice problems. Discussion sessions will mix guided practice with group work. Discussion worksheets will be due at the end of discussion and checked for completion. They will be returned in the next session.
 
-**2.b Homework Assignments:** Homework will be assigned weekly. Homework should be submitted to Gradescope. Homework will be graded on a completion basis. Homework will be due at 5 pm on Monday the week after posting. Discussion problems will be selected to help you complete your HW.
+**2.b Homework Assignments:** Homework will be assigned weekly. Homework should be submitted to Pensive. Homework will be graded on a completion basis. Homework will be due at 5 pm on Monday the week after posting. Discussion problems will be selected to help you complete your HW.
 
-**3\. Quizzes:** You will complete 7 quizzes over the semester. Quizzes will be held on Wednesdays and Thursdays through the Computer Based Testing Facility (CBTF). Students will sign up for their own quiz slot with the CBTF. We will contact you with directions for quiz scheduling. Quizzes will focus on problems adapted from HW. 
+**3\. Quizzes:** You will complete 7 quizzes over the semester. Quizzes will be held at the Computer Based Testing Facility (CBTF). Students will sign up for their own quiz slot with the CBTF. We will contact you with directions for quiz scheduling. Quizzes will focus on problems adapted from HW. 
 
 **4\. Exams:** As below. Written exams (2 midterms, 1 cumulative final) will evaluate mastery of the course material.
 
@@ -162,11 +165,11 @@ The following course components will be designed to 1\. \[exposit\] provide expo
 
 **Exams:** The course will include two midterm exams (non-cumulative) and one cumulative final. They will be held outside of class. The midterm exams will not be cumulative, however, the skills taught in the beginning of the course will be needed for tasks demanded at the end. Midterms will run for 110 minutes. The final will run for 170 minutes.
 
-The exams will be administered on Mondays from 7:00 \- 9:00 pm of weeks 6 and 12 (spring break inclusive)\. The exam dates are **Monday February 23rd** and **Monday April 6th**. 
+The exams will be administered on Mondays from 7:00 \- 9:00 pm of weeks 6 and 12 (spring break inclusive)\. The exam dates are **Monday September 28th** and **Monday November 9th**. 
 
 **Clobber Policy:** If we are given advance notice that you must miss an exam, then we may grant a clobber. If a student is excused from a midterm exam, their exam score will be estimated via regression at the end of the course from their final exam score in a way that does not help or hurt their final grade on average. This method, which assigns them the average score on the missed exam among people who received the same or very similar scores on the final, takes into account variability in exam difficulty.
 
-**Final:** The final exam will be a cumulative written exam held outside of class. The final exam will be **Thurs, 5/14/26** from **8-11 am**.
+**Final:** The final exam will be a cumulative written exam held outside of class. The final exam will be **Tuesday, 12/15/26** from **8-11 am**.
 
 ---
 
@@ -180,12 +183,13 @@ Per the division of assignment roles outlined above, your grade will not be base
 
 1. **Participation and Effort (Discussion \+ Homework):** Completion percentage for discussion worksheets and HW, weighted 60% HW completion average, 40% discussion participation average.
 
-   * Your final grade will be restricted to lie in specific letter bins conditional on the fraction of the assigned materials you complete. These bins are:  
-     * If you complete \>= 80% ……….. then your letter grade will be between \[C+ and A+\]   
-     * If you complete \[70%, 80%\] …... then your letter grade will be between \[D+ and A\]  
-     * If you complete \[60%, 70%\] …… then your letter grade will be between \[F and B+\]   
-     * If you complete \[40%, 60%\] …… then your letter grade will be between \[F and C\]   
-     * You must submit at least 40% of the course work to pass.  
+   * Your final grade will be floored conditional on the fraction of the assigned materials you complete. These floors are:  
+     * If you complete \>= 80% ……….. then your letter grade will be at least a C+  
+     * If you complete \[70%, 80%\] …... then your letter grade will be at least a D+ 
+     * If you complete less than 70%, there is no floor to your letter grade.
+     <!-- * If you complete \[60%, 70%\] …… then your letter grade will be between \[F and B+\]    -->
+     <!-- * If you complete \[40%, 60%\] …… then your letter grade will be between \[F and C\]    -->
+     <!-- * You must submit at least 40% of the course work to pass.   -->
    * All homework must be submitted on time barring DSP extensions.   
    * We will not drop any HW or discussion, though, with at least 12 HW and discussion, you may miss 2 HW and 2 discussions while maintaining over 80% completion.  
    * Homework will be graded on completion, and should be treated as practice problems for your quizzes. We will grade each HW out of 90%, capping grades at 100%. That way, if you  make an earnest attempt on most problems, you will receive close to full credit. For instance, if you make a genuine effort on 85% of a HW, you will receive a 94.4% on the HW. 
@@ -194,18 +198,18 @@ Per the division of assignment roles outlined above, your grade will not be base
      
 
 2. **Proficiency (quizzes):**   
-   * Your final grade will be restricted to lie in specific letter bins conditional on your quiz average. These bins are:   
-     * \[80% to 100%\] quiz average ……. then your letter grade will be in \[B and A+\]  
-     * \[75% to 80%\]   quiz average ..…... then your letter grade will be in \[B- and A+\]  
-     * \[70% to 75%\]   quiz average ..…... then your letter grade will be in \[C+ and A\]  
-     * \[65% to 70%\]   quiz average ..…... then your letter grade will be in \[C and A-\]  
-     * \[60% to 65%\]   quiz average ..…... then your letter grade will be in \[C- and B+\]  
-     * \[55% to 60%\]   quiz average ..…... then your letter grade will be in \[D+ and B\]  
-     * \[50% to 55%\]   quiz average ..…... then your letter grade will be in \[D and B-\]  
-     * \[45% to 50%\]   quiz average ..…... then your letter grade will be in \[D- and C+\]  
-     * You must earn at least a 45% quiz average to pass the class.  
+   * Your final grade will be floored conditional on your quiz average. These bins are:   
+     * \[80% to 100%\] quiz average ……. then your letter grade will be at least a B 
+     * \[75% to 80%\]   quiz average ..…... then your letter grade will be at least a B- 
+     * \[70% to 75%\]   quiz average ..…... then your letter grade will be at least a C+  
+     * \[65% to 70%\]   quiz average ..…... then your letter grade will be at least a C  
+     * \[60% to 65%\]   quiz average ..…... then your letter grade will be at least a C-  
+     * \[55% to 60%\]   quiz average ..…... then your letter grade will be at least a D+  
+     * \[50% to 55%\]   quiz average ..…... then your letter grade will be at least a D  
+     * \[45% to 50%\]   quiz average ..…... then your letter grade will be at least a D+ 
+     * Less than 45% quiz average ..…... then there is no floor to your letter grade.
    * We will outline the scope for each quiz a week in advance. 
-   * Every student who attempts a quiz and receives less than an 90% after the is eligible for a retake. Please do not register for a retake if you earned more than an 90% on your first attempt. By the scheme described above, quiz averages above an 90% all earn the same final grade bracket. 
+   * Every student who attempts a quiz and receives less than a 90% is eligible for one retake of that quiz. Please do not register for a retake if you earned more than an 90% on your first attempt. By the scheme described above, quiz averages above an 90% all earn the same final grade bracket. 
    * If you retake a quiz, then your quiz grade will be set to the better of your two attempts, capped at 90% to respect retake eligibility. Students who miss a quiz and communicate with staff may be granted eligibility for the retake. 
    * Students who miss the original quiz without explanation are not eligible for retakes. Students who miss for an excused reason, may be granted eligibility for the retake. In this case, their retake score is not bounded above by an 90%. 
    * Retakes will be similar but not identical to the original quiz. Watch for directions on scope and suggestions for study. Problems will be semi-randomized.
@@ -218,6 +222,6 @@ Per the division of assignment roles outlined above, your grade will not be base
 
 ### **Final Grade:** 
 
-Your grade will equal your exam average, floored at the larger of the two letter grade floors set by participation and proficiency, and bounded above by the smaller of the two letter grade caps set by participation and proficiency.
+Your final grade will equal your exam average, floored at the larger of the two letter grade floors set by participation and proficiency.
 
-You must score higher than a 50% on at least one exam to pass the course. Any student who scores less than a 50% on all three exams will fail the course. If you are concerned, after the first or second exam, that you are not prepared to pass the course, come talk to us. 
+However, **you must score higher than a 50% on at least one exam to pass the course**. Any student who scores less than a 50% on all three exams will fail the course. If you are concerned, after the first or second exam, that you are not prepared to pass the course, come talk to us. 
