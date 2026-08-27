@@ -12,7 +12,7 @@ seo:
 ⚠️ The content on this page is subject to change while this banner is present.
 
 # Data 89: Mathematical and Graphical Foundations of Probability
-UC Berkeley, Fall 2026 2026
+UC Berkeley, Fall 2026
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
