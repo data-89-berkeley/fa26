@@ -12,9 +12,10 @@
 # link overrides the default link to the quiz page from the collection if 
 # you provided a slug or provides an external link
 quizzes:
-  - title: Prereq Quiz (9/1 - 9/3)
-    date: 2026-09-01
-    link: 
+  # cancelled :]
+  # - title: Prereq Quiz (9/1 - 9/3)
+  #   date: 2026-09-01
+  #   link: 
   - title: Quiz 1 (9/8 - 9/10)
     date: 2026-09-08
   - title: Quiz 1 Retake (9/14 - 9/15)

@@ -13,9 +13,9 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - skip: true
-  # - title: Probability Essentials # on _data/syllabus.yml
-  #   link:
+  #- skip: true
+  - title: Probability Essentials # I removed from _data/syllabus.yml
+    link: https://drive.google.com/file/d/1yP7MFMuOoQ9FNVDyXqXVtKEa4QVIaHQT/view?usp=sharing
   - title: Distributions and Models 
     link: 
   - title: Function Visualization 
