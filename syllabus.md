@@ -6,10 +6,6 @@ description: >-
 nav_order: 2
 ---
 
-{: .warning }
-⚠️ The content on this page is subject to change while this banner is present.
-
-
 # Syllabus
 ## Instructors: 
 
@@ -26,9 +22,7 @@ All regular course communication will use Ed. You may post there privately. For 
 
 **Josh:** Tuesday/Thursday right after lecture, 3:30 \- 4:30 pm in Gateway B1040\. Walk there with me!
 
-**TAs:** TBD
-
-<!-- Monday noon \- 5:00 pm, Friday 10:00 am \- noon in Warren. -->
+**TAs:** Monday 10-12, Friday 1-2 in Gateway B1040. See calendar page.
 
 ---
 
@@ -80,7 +74,7 @@ Experience working with Jupyter notebooks and Python programming using the datas
 
 **Lecture:** Tuesday/Thursday 2 \- 3:30 pm, Li Ka Shing 245
 
-**Discussion:** Wednesdays, 10:00 am \- 3:00 pm, by section.
+**Discussion:** Wednesdays, afternoon, by section.
 
 ### **Materials (Textbook):**  
 
@@ -115,7 +109,7 @@ We also strongly encourage you to make friends in class and to share notes. All 
 
 ### **Discussion Attendance:** 
 
-Discussion attendance is expected. You must attend your assigned section. Discussion worksheets will be collected to track course participation and will graded for completion and attendance. All discussion worksheets will be designed to help you complete your HW.  
+Discussion attendance is expected. You must attend your assigned section. We will take attendance to track course participation and will graded for completion and attendance. All discussion worksheets will be designed to help you complete your HW.  
 
 ### **Technology Use in Lecture:**
 
