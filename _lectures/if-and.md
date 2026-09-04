@@ -11,8 +11,7 @@ files:
   notebook: 
   notes: 
   additional_files:
-    - name: Study Sheet
-      link: https://drive.google.com/file/d/1_bO0yXdSJG8RV5CYvPCHEI29LWIZinDo/view?usp=sharing
+    - name: Study Sheet (Refer to the study sheets from Lectures 1 and 2)
     - name: Section 1.4
       link: https://data89.org/notes/joint-and-marginal-probability/
     - name: Section 1.5
