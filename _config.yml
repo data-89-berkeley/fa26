@@ -7,7 +7,7 @@ baseurl: '/fa26' # the subpath of your site, which should just be the semester.
 url: 'https://data89.org' # the hostname & protocol for your site, e.g. http://example.com
 
 course: Data 89
-course_email: 
+course_email: data89@berkeley.edu
 gradescope_course_id:  # you can find this in the Pensive URL after /courses
 bcourses_course_id: 1558705 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 104008 # Again, same as above.
@@ -29,8 +29,8 @@ favicon_ico: "/favicon.png"
 aux_links:
   Course Notes:
     - 'https://data89.org/notes'
-  # Ed:
-  #   - 'https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion'
+  Ed:
+    - 'https://edstem.org/us/courses/{{ site.ed_course_id }}/discussion'
   # Pensive:
   #   - 'https://www.gradescope.com/courses/{{ site.gradescope_course_id}}'
 
