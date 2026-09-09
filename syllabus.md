@@ -22,7 +22,7 @@ All regular course communication will use Ed. You may post there privately. For 
 
 **Josh:** Tuesday/Thursday right after lecture, 3:30 \- 4:30 pm in Gateway B1040\. Walk there with me!
 
-**TAs:** Monday 10-12, Friday 1-2 in Gateway B1040. See calendar page.
+**TAs:** Monday 11-12, Friday 1-2 in Gateway B1040. See calendar page.
 
 ---
 
