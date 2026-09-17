@@ -145,7 +145,7 @@ The following course components will be designed to 1\. \[exposit\] provide expo
 
 **1\. Reading:** Readings will be suggested for each lecture in a weekly guide posted in advance. Each reading will be associated with a discussion thread on Ed for questions. We strongly suggest that you complete the reading before lecture and before attempting practice problems.
 
-**2.a Discussion Problems:** Each discussion section will be used to solve practice problems. Discussion sessions will mix guided practice with group work. Discussion worksheets will be due at the end of discussion and checked for completion. They will be returned in the next session.
+**2.a Discussion Problems:** Each discussion section will be used to solve practice problems. Discussion sessions will mix guided practice with group work. We take attendance but do not collect worksheets.
 
 **2.b Homework Assignments:** Homework will be assigned weekly. Homework should be submitted to Pensive. Homework will be graded on a completion basis. Homework will be due at 5 pm on Monday the week after posting. Discussion problems will be selected to help you complete your HW.
 
