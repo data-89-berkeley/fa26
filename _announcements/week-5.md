@@ -10,7 +10,7 @@ date: 2026-09-21
 
 **Staff OH** is Friday 9/25 1-2pm & Monday 9/28 11-12pm in Gateway B1040. **Exam Review/OH** is Friday 9/25 12-1pm in Gateway B1022.
 
-**Homework 4** is released and due Wednesday 9/30 at 5pm.  
+**Homework 4** is released and due Tuesday 9/29 at 5pm.  
 (Please make sure to assign pages correctly! We will start taking away points if you do not.)
 
 **All HW and discussion solutions** are posted on Ed (Central Index post).
