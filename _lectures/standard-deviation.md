@@ -11,9 +11,9 @@ files:
   notebook: 
   notes: 
   additional_files:
-    # - name: Study Sheet
-    #   link: https://drive.google.com/file/d/1l0Kg83CoddjNmRLSb3Aq1-p-Pv6lHoql/view?usp=sharing
-    # - name: Section 4.3
-    #   link: https://data89.org/notes/variance/
+    - name: Study Sheet
+      link: https://drive.google.com/file/d/1SHF08Jzc7cV9FoMYcPQVvaO__L5OCSIA/view?usp=sharing
+    - name: Section 4.3
+      link: https://data89.org/notes/variance/
 recording: 
 ---
