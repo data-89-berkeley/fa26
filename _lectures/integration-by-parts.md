@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Integration by Parts"
-date: 2026-10-15
+date: 2026-10-20
 files:
   slides: 
   pdf_slides: 

@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Gradients and Optimization"
-date: 2026-11-05
+date: 2026-11-10
 files:
   slides: 
   pdf_slides: 

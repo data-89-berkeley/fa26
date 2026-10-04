@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Probability Models: Joint Distributions"
-date: 2026-10-29
+date: 2026-11-03
 files:
   slides: 
   pdf_slides: 

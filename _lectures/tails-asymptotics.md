@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Distribution Attributes: Tails and Asymptotics"
-date: 2026-10-01
+date: 2026-10-06
 files:
   slides: 
   pdf_slides: 

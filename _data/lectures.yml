@@ -37,8 +37,10 @@ lectures:
   # - title: "Distribution Attributes: Expectation as Central Tendency 1"
   - slug: expectation-2
   # - title: "Distribution Attributes: Expectation as Central Tendency 2"
-  - slug: standard-deviation
-  # - title: "Distribution Attributes: Standard Deviation as Dispersion"
+  - slug: standard-deviation-1
+  # - title: "Distribution Attributes: Standard Deviation as Dispersion 1"
+  - slug: standard-deviation-2
+  # - title: "Distribution Attributes: Standard Deviation as Dispersion 2"
   - slug: tails-asymptotics
   # - title: "Distribution Attributes: Tails and Asymptotics"
   - slug: sequences
@@ -69,7 +71,7 @@ lectures:
   # - title: "Techniques: Constrained Optimization"
   - slug: splitting-sums
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
-  - title: TBA
+  # - title: TBA
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
   - slug: change-of-coordinates

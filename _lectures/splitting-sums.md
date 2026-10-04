@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Splitting Sums and Conditional Expectation"
-date: 2026-11-19
+date: 2026-11-24
 files:
   slides: 
   pdf_slides: 

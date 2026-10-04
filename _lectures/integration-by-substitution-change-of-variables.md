@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Integration by Substitution and Change of Variables"
-date: 2026-10-20
+date: 2026-10-22
 files:
   slides: 
   pdf_slides: 
