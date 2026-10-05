@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Integrals and Sums in Multiple Dimensions 2"
-date: 2026-11-12
+date: 2026-11-17
 files:
   slides: 
   pdf_slides: 

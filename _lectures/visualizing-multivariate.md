@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Visualizing Functions: Multivariate Functions"
-date: 2026-10-27
+date: 2026-10-29
 files:
   slides: 
   pdf_slides: 

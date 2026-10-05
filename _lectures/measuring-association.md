@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Application: Measuring Association"
-date: 2026-12-03
+date: 2026-12-08
 files:
   slides: 
   pdf_slides: 

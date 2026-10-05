@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Coordinate Systems for Multiple Variables"
-date: 2026-10-22
+date: 2026-10-27
 files:
   slides: 
   pdf_slides: 

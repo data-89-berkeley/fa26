@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Sequences, Series, and Asymptotic Rates"
-date: 2026-10-06
+date: 2026-10-08
 files:
   slides: 
   pdf_slides: 
