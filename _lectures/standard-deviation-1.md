@@ -12,7 +12,7 @@ files:
   notes: 
   additional_files:
     - name: Study Sheet
-      link: https://drive.google.com/file/d/1SHF08Jc7cV9FoMYcPQVvaO__L5OCSIA/view?usp=sharing
+      link: https://drive.google.com/file/d/1SHF08Jzc7cV9FoMYcPQVvaO__L5OCSIA/view?usp=sharing
     - name: Section 4.3
       link: https://data89.org/notes/variance/
 recording: 
