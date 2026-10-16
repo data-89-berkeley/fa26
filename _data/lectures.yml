@@ -46,13 +46,15 @@ lectures:
   - slug: sequences
   # - title: "Techniques: Sequences, Series, and Asymptotic Rates"
   - slug: taylor-series-1
-  # - title: "Techniques: Taylor Series and Function Approximation 1"
-  - slug: taylor-series-2
+  # - title: "Techniques: Taylor Series and Function Approximation"
+  # - slug: taylor-series-2
   # - title: "Techniques: Taylor Series and Function Approximation 2"
   - slug: integration-by-parts
   # - title: "Techniques: Integration by Parts"
   - slug: integration-by-substitution-change-of-variables
   # - title: "Techniques: Integration by Substitution and Change of Variables"
+  - slug: integrals-3
+  # - title: "Additional Review of Integration Techniques"
   - slug: coordinate-systems
   # - title: "Coordinate Systems for Multiple Variables"
   - slug: visualizing-multivariate

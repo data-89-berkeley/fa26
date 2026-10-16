@@ -1,7 +1,7 @@
 ---
 published: true
 presented_by: Joshua Grossman
-title: "Techniques: Taylor Series and Function Approximation 1"
+title: "Techniques: Taylor Series and Function Approximation"
 date: 2026-10-13
 files:
   slides: 
