@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Constrained Optimization"
-date: 2026-11-19
+date: 2026-11-17
 files:
   slides: 
   pdf_slides: 

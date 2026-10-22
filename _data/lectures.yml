@@ -53,7 +53,7 @@ lectures:
   # - title: "Techniques: Integration by Parts"
   - slug: integration-by-substitution-change-of-variables
   # - title: "Techniques: Integration by Substitution and Change of Variables"
-  - slug: integrals-3
+  # - slug: integrals-3
   # - title: "Additional Review of Integration Techniques"
   - slug: coordinate-systems
   # - title: "Coordinate Systems for Multiple Variables"
@@ -73,7 +73,7 @@ lectures:
   # - title: "Techniques: Constrained Optimization"
   - slug: splitting-sums
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
-  # - title: TBA
+  - title: TBA
   - title: <b>Holiday - No Lecture</b>
     nonumber: true
   - slug: change-of-coordinates

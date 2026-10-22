@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Partial Derivatives and Gradients"
-date: 2026-11-05
+date: 2026-11-03
 files:
   slides: 
   pdf_slides: 
