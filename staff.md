@@ -7,6 +7,8 @@ nav_order: 4
 
 # Staff
 
+#### Please email [data89@berkeley.edu](data89@berkeley.edu) for course-related concerns.
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
