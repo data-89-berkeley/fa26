@@ -1,7 +1,7 @@
 ---
 name: Josh Grossman
 role: Instructor
-email: data89@berkeley.edu
+email: 
 photo: Joshua_Grossman.jpg
 website: https://jdgrossman.com/
 ---
