@@ -7,7 +7,7 @@ nav_order: 4
 
 # Staff
 
-#### Please email [data89@berkeley.edu](data89@berkeley.edu) for course-related concerns.
+**Please email [data89@berkeley.edu](data89@berkeley.edu) for course-related concerns.**
 
 ## Instructors
 
