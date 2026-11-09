@@ -13,8 +13,6 @@ files:
   additional_files:
      - name: Study Sheet
        link: https://drive.google.com/file/d/1ar0p3oK84wO1RFOFsIivSz-WjTbJt-BI/view?usp=sharing
-     - name: Lecture Notes
-       link: https://drive.google.com/file/d/1raKSgQdBWVDyRkiRzyUWbif0DGcefWND/view?usp=sharing
      - name: Chapter 9.2
        link: https://data89.org/notes/gradients/
      - name: Chapter 9.3
