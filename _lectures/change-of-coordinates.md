@@ -2,7 +2,7 @@
 published: true
 presented_by: Joshua Grossman
 title: "Techniques: Integration on Manifolds and Change of Coordinates"
-date: 2026-12-03
+date: 2026-11-19
 files:
   slides: 
   pdf_slides: 

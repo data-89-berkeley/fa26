@@ -69,17 +69,19 @@ lectures:
   # - title: "Techniques: Integrals and Sums in Multiple Dimensions 1"
   - slug: integrals-2
   # - title: "Techniques: Integrals and Sums in Multiple Dimensions 2"
-  - slug: constrained-optimization
-  # - title: "Techniques: Constrained Optimization"
   - slug: splitting-sums
   # - title: "Techniques: Splitting Sums and Conditional Expectation"
-  - title: TBA
-  - title: <b>Holiday - No Lecture</b>
-    nonumber: true
   - slug: change-of-coordinates
   # - title: "Techniques: Integration on Manifolds and Change of Coordinates"
+  - slug: constrained-optimization
+  # - title: "Techniques: Constrained Optimization"
+  # - title: TBA
+  - title: <b>Holiday - No Lecture</b>
+    nonumber: true
   - slug: measuring-association
   # - title: "Application: Measuring Association"
+  - title: "Wrap up and AMA"
+    nonumber: true
   - title: <b>RRR Week</b>
     nonumber: true
   - title: <b>RRR Week</b>
