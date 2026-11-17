@@ -11,10 +11,10 @@ files:
   notebook: 
   notes: 
   additional_files:
-    # - name: Study Sheet
-    #   link: https://drive.google.com/file/d/1ycbBEGa0NDrT8736pEyGCFLzYKRCpv4s/view?usp=sharing
-    # - name: Chapter 10.2
-    #   link: https://data89.org/notes/conditional-expectation/
+     - name: Study Sheet
+       link: https://drive.google.com/file/d/15F2ev8RzhztYLngidDxdyLD9u6A4cKN4/view?usp=sharing
+     - name: Chapter 10.2
+       link: https://data89.org/notes/conditional-expectation/
 recording: 
 ---
 
