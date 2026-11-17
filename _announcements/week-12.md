@@ -1,7 +1,7 @@
 ---
-title: Week 11 Announcement
-week: 11
-date: 2026-11-03
+title: Week 12 Announcement
+week: 12
+date: 2026-11-10
 ---
 
 **Homework 10** is due Thursday 11/12 5pm.
